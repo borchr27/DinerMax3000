@@ -1,0 +1,11 @@
+C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000Console\bin\Debug\netcoreapp3.1\DinerMax3000Console.exe
+C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000Console\bin\Debug\netcoreapp3.1\DinerMax3000Console.deps.json
+C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000Console\bin\Debug\netcoreapp3.1\DinerMax3000Console.runtimeconfig.json
+C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000Console\bin\Debug\netcoreapp3.1\DinerMax3000Console.runtimeconfig.dev.json
+C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000Console\bin\Debug\netcoreapp3.1\DinerMax3000Console.dll
+C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000Console\bin\Debug\netcoreapp3.1\DinerMax3000Console.pdb
+C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000Console\obj\Debug\netcoreapp3.1\DinerMax3000Console.csprojAssemblyReference.cache
+C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000Console\obj\Debug\netcoreapp3.1\DinerMax3000Console.AssemblyInfoInputs.cache
+C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000Console\obj\Debug\netcoreapp3.1\DinerMax3000Console.AssemblyInfo.cs
+C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000Console\obj\Debug\netcoreapp3.1\DinerMax3000Console.dll
+C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000Console\obj\Debug\netcoreapp3.1\DinerMax3000Console.pdb
