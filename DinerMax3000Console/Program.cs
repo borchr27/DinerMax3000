@@ -1,5 +1,6 @@
 ﻿using System;
-
+// Link to tutorial below:
+// https://app.pluralsight.com/library/courses/becoming-dotnet-developer/table-of-contents
 namespace DinerMax3000Console
 {
     class Program
