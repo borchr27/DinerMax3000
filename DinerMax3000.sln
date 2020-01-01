@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinerMax3000Console", "DinerMax3000Console\DinerMax3000Console.csproj", "{E70E6C25-089B-44F9-92FB-F2E928FE725B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DinerMax3000Console", "DinerMax3000Console\DinerMax3000Console.csproj", "{E70E6C25-089B-44F9-92FB-F2E928FE725B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinerMax3000BusinessLayer", "DinerMax3000BusinessLayer\DinerMax3000BusinessLayer.csproj", "{3F739BC6-8249-4F48-8FE0-4535BDEF8C01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E70E6C25-089B-44F9-92FB-F2E928FE725B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E70E6C25-089B-44F9-92FB-F2E928FE725B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E70E6C25-089B-44F9-92FB-F2E928FE725B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F739BC6-8249-4F48-8FE0-4535BDEF8C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F739BC6-8249-4F48-8FE0-4535BDEF8C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F739BC6-8249-4F48-8FE0-4535BDEF8C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F739BC6-8249-4F48-8FE0-4535BDEF8C01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

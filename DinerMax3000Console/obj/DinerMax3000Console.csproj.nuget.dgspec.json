@@ -4,6 +4,17 @@
     "C:\\Users\\mitch\\source\\repos\\DinerMax3000\\DinerMax3000Console\\DinerMax3000Console.csproj": {}
   },
   "projects": {
+    "C:\\Users\\mitch\\source\\repos\\DinerMax3000\\DinerMax3000BusinessLayer\\DinerMax3000BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mitch\\source\\repos\\DinerMax3000\\DinerMax3000BusinessLayer\\DinerMax3000BusinessLayer.csproj",
+        "projectName": "DinerMax3000BusinessLayer",
+        "projectPath": "C:\\Users\\mitch\\source\\repos\\DinerMax3000\\DinerMax3000BusinessLayer\\DinerMax3000BusinessLayer.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "C:\\Users\\mitch\\source\\repos\\DinerMax3000\\DinerMax3000Console\\DinerMax3000Console.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -30,7 +41,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\mitch\\source\\repos\\DinerMax3000\\DinerMax3000BusinessLayer\\DinerMax3000BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\mitch\\source\\repos\\DinerMax3000\\DinerMax3000BusinessLayer\\DinerMax3000BusinessLayer.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
