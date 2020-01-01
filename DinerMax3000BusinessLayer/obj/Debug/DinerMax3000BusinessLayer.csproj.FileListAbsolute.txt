@@ -1,1 +1,10 @@
 C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000BusinessLayer\obj\Debug\DinerMax3000BusinessLayer.csprojAssemblyReference.cache
+C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000BusinessLayer\bin\Debug\DinerMax3000BusinessLayer.dll.config
+C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000BusinessLayer\bin\Debug\DinerMax3000BusinessLayer.dll
+C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000BusinessLayer\bin\Debug\DinerMax3000BusinessLayer.pdb
+C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000BusinessLayer\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000BusinessLayer\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000BusinessLayer\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000BusinessLayer\obj\Debug\DinerMax3000BusinessLayer.csproj.CopyComplete
+C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000BusinessLayer\obj\Debug\DinerMax3000BusinessLayer.dll
+C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000BusinessLayer\obj\Debug\DinerMax3000BusinessLayer.pdb

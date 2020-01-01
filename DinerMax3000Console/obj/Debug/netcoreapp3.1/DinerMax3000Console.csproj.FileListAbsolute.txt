@@ -9,3 +9,8 @@ C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000Console\obj\Debug\netcoreap
 C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000Console\obj\Debug\netcoreapp3.1\DinerMax3000Console.AssemblyInfo.cs
 C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000Console\obj\Debug\netcoreapp3.1\DinerMax3000Console.dll
 C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000Console\obj\Debug\netcoreapp3.1\DinerMax3000Console.pdb
+C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000Console\bin\Debug\netcoreapp3.1\DinerMax3000Console.dll.config
+C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000Console\bin\Debug\netcoreapp3.1\DinerMax3000BusinessLayer.dll
+C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000Console\bin\Debug\netcoreapp3.1\DinerMax3000BusinessLayer.pdb
+C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000Console\bin\Debug\netcoreapp3.1\DinerMax3000BusinessLayer.dll.config
+C:\Users\mitch\source\repos\DinerMax3000\DinerMax3000Console\obj\Debug\netcoreapp3.1\DinerMax3000Console.csproj.CopyComplete
